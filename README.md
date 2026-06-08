@@ -33,4 +33,4 @@ Learning data analytics from the ground up — documenting every step publicly.
 - [ ] Remote role applications sent
 
 ## Connect
-[LinkedIn](#) · [Instagram](#)
+[LinkedIn](https://www.linkedin.com/in/iqra-eiman) · [Instagram](#)
